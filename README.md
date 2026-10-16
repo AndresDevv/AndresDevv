@@ -1,22 +1,150 @@
-# 💫 Sobre mi:
-🎓 ¡Hola! Soy Andres, estudiante de Ingeniería de Software<br>Actualmente curso el V ciclo de mi carrera y tengo 19 años. Soy una persona apasionada por la tecnología, con una mentalidad analítica y enfocada en resolver problemas de forma eficiente y creativa.<br><br>💡 Me encanta aprender constantemente y explorar nuevas tecnologías que me permitan mejorar como desarrollador. Siempre busco destacar en lo que hago, no por competir con los demás, sino por superarme a mí mismo cada día.<br><br>🚀 Disfruto enfrentar retos, diseñar soluciones y trabajar en proyectos que marquen la diferencia. Estoy en busca de oportunidades donde pueda seguir creciendo, aportar con mis conocimientos y seguir construyendo el futuro con código.<br><br>🔍 Actualmente estoy profundizando en áreas como el desarrollo web, estructuras de datos, algoritmos y bases de datos, mientras participo en proyectos personales y académicos que me ayudan a pulir mis habilidades.<br><br>📫 ¡Estoy abierto a nuevas oportunidades, colaboraciones o simplemente a conectar con personas apasionadas por la tecnología como yo!
+<!-- ENCABEZADO -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:003B00&height=220&section=header&text=Andres%20Developer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20in%20progress&descAlignY=60&descSize=18" width="100%"/>
 
-## 🌐 Redes Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrescardenas.devv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresdevv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@andresdevv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrescar.angulo@gmail.com) 
+<a href="https://github.com/andresdevv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+andresdevv;%3E+Estudiante+de+Ingenier%C3%ADa+de+Software;%3E+Aprendiendo+Full+Stack+%F0%9F%9A%80;%3E+%22Yo+no+sigo+tendencias%2C+las+creo%22" alt="Typing SVG" />
+</a>
 
-# 💻 Tecnologías:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 Estadísticas de Github:
-![](https://github-readme-stats.vercel.app/api?username=AndresDevv&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AndresDevv&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDevv&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=andresdevv&label=Visitas&color=00FF41&style=for-the-badge&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/andresdevv?style=for-the-badge&logo=github&color=00FF41&labelColor=000000)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AndresDevv&icon=3&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Puedes ayudarme donando
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/andy101206) 
+## 👨‍💻 `~/sobre-mi` · About me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+$ cat andres.json
+{
+  "nombre": "Andres Developer",
+  "rol": "Estudiante de 5to ciclo de Ingeniería de Software",
+  "foco_actual": "Full Stack Development",
+  "lema": "Yo no sigo tendencias, las creo",
+  "hobbies": ["Escuchar música 🎧", "Programar 💻", "Videojuegos 🎮"],
+  "estado": "Compilando mi futuro... ☕"
+}
+```
+
+<details>
+<summary>🇺🇸 <b>English version (click to expand)</b></summary>
+
+```bash
+$ cat andres.json
+{
+  "name": "Andres Developer",
+  "role": "5th-semester Software Engineering student",
+  "current_focus": "Full Stack Development",
+  "motto": "I don't follow trends, I create them",
+  "hobbies": ["Listening to music 🎧", "Coding 💻", "Video games 🎮"],
+  "status": "Compiling my future... ☕"
+}
+```
+
+</details>
+
+---
+
+## 🛠️ `~/stack` · Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,php,laravel,js,react,html,css,bootstrap&theme=dark" alt="languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,arduino&theme=dark" alt="tools and databases"/>
+
+</div>
+
+---
+
+## 🌱 `~/aprendiendo` · Currently learning
+
+```diff
++ Full Stack Development (React + Laravel + MySQL)
++ APIs REST y arquitectura de aplicaciones
++ Buenas prácticas con Git & GitHub
+- Procrastinar (en proceso de eliminación)
+```
+
+---
+
+## 🚀 `~/proyectos` · Featured Projects
+
+<div align="center">
+
+| 🧾 Sistema de Ventas para Restaurante | 🎮 Videojuego tipo Undertale |
+|:---:|:---:|
+| Gestión de pedidos, mesas, productos y ventas para restaurantes. | RPG con narrativa, combate por turnos y decisiones que importan. |
+| `Laravel` `PHP` `MySQL` `Bootstrap` | `Java` / `Python` / `JavaScript` |
+| [📂 Ver repositorio](https://github.com/andresdevv/NOMBRE-DEL-REPO) | [📂 Ver repositorio](https://github.com/andresdevv/NOMBRE-DEL-REPO) |
+
+</div>
+
+> 💡 Cambia `NOMBRE-DEL-REPO` por el nombre real de cada repositorio.
+
+---
+
+## 📊 `~/stats` · GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andresdevv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdevv&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=andresdevv&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdevv&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎧 `~/musica` · Now playing
+
+<div align="center">
+
+```
+ ▶  Coding mode: ON  ━━━━━●────────  🎵  Música + código = productividad
+```
+
+</div>
+
+---
+
+## 🌐 `~/contacto` · Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+<a href="https://www.tiktok.com/@TU-USUARIO">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00FF41" />
+</a>
+<a href="https://www.facebook.com/TU-USUARIO">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF41" />
+</a>
+<a href="https://www.instagram.com/TU-USUARIO">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+</a>
+
+<br/><br/>
+
+```js
+const andres = {
+  motto: "Yo no sigo tendencias, las creo",
+  motto_en: "I don't follow trends, I create them",
+};
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00FF41,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
